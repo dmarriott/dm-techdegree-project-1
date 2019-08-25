@@ -68,7 +68,7 @@ You'll also practice using GitHub, an important tool used by millions of develop
         </ul>
 </ul>
 
-<h3>Changed placeholder text for name, background and goals<h3>
+<h3>Changed placeholder text for name, background and goals</h3>
 <ul>
     <li>Meets expectations:</li>
         <ul>
