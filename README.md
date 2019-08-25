@@ -3,26 +3,26 @@
  Team Treehouse Project 1
  https://teamtreehouse.com/
 
-Overview
+<h2>Overview</h2>
 
 For your first project, you’ll practice web design skills by customizing a web page to create a personal profile. You'll modify the code for a basic web page by adding graphics, custom text, and a stylish design. This is a great way for you to practice HTML and CSS skills. It also gives you a web page you can use as a personal online calling card to advertise your experience, skills, and goals, and to provide links to your social media accounts on Twitter, LinkedIn and GitHub.
 
 You'll also practice using GitHub, an important tool used by millions of developers to share code and work collaboratively on programming projects. Creating and using a GitHub account is also a great way to share your work with potential employers.
 
-Grading the project
+<h2>Grading the project</h2>
 
-Include the required files
+<h3>Include the required files</h3>
 <ul>
     <li>Meets expectations:</li>
         <ul>
             <li>Project includes the following:</li>
-            <ol>
+            <ul>
                 <li>index.html</li>
                 <li>experience.html</li>
                 <li>styles.css</li>
                 <li>a new profile image</li>
                 <li>a new background image</li>
-            </ol>
+            </ul>
         </ul>
     <li>Exceeds expectations:</li>
         <ul>
@@ -30,45 +30,75 @@ Include the required files
         </ul>
 </ul>
 
-Links
-    Meets expectations:
-        1. All social media links on the page lead to external websites.
-        2. Deleted social media icons if a link is not provided.
-        3. Edit the href value of the Home link so it navigates to index.html.
-        4. Link to 'Experience' page is present and links to a new page.
-        5. 'Experience' page contains additional text and/or image content
-    Exceeds expectations:
-        Additional pages added and links to those pages work.
+<h3>Links</h3>
+<ul>
+    <li>Meets expectations:</li>
+        <ul>
+            <li>All social media links on the page lead to external websites.</li>
+            <li>Deleted social media icons if a link is not provided.</li>
+            <li>Edit the href value of the Home link so it navigates to index.html.</li>
+            <li>Link to 'Experience' page is present and links to a new page.</li>
+            <li>'Experience' page contains additional text and/or image content</li>
+        </ul>
+    <li>Exceeds expectations:</li>
+        <ul>
+            <li>Additional pages added and links to those pages work.</li>
+        </ul>
+</ul>
 
-Added a photo and background
-    Meets expectations:
-        1. New profile image is in place, and the image file size is under 400 KB.
-        2. "profile-image" class is still attached to profile <img> tag.
-        3. New profile image's alt attribute text has been updated.
-        4. New background image is in place, and the image file size is under 1 MB.
-    Exceeds expectations:
-        1. At least one of the following CSS style properties has been changed on the profile picture:
-            border
-            border-radius
-            transition
-            transformation
-        2. At least one additional image added to the page.
+<h3>Added a photo and background</h3>
+<ul>
+    <li>Meets expectations:</li>
+        <ul>
+            <li>New profile image is in place, and the image file size is under 400 KB.</li>
+            <li>"profile-image" class is still attached to profile <img> tag.</li>
+            <li>New profile image's alt attribute text has been updated.</li>
+            <li>New background image is in place, and the image file size is under 1 MB.</li>
+        </ul>
+    <li>Exceeds expectations:</li>
+        <ul>
+            <li>At least one of the following CSS style properties has been changed on the profile picture:</li>
+            <ul>
+                <li>border</li>
+                <li>border-radius</li>
+                <li>transition</li>
+                <li>transformation</li>
+            </ul>
+            <li>At least one additional image added to the page.</li>
+        </ul>
+</ul>
 
-Changed placeholder text for name, background and goals
-    Meets expectations:
-        1. All the placeholder text has been changed for:
-            Name
-            Background section
-            Goals section
-    Exceeds expectations:
-        1. Additional text content has been added.
-        2. Changed tag names for the following div elements:
-            <div class="main-nav"> should be a nav tag.
-            <div class="card"> should be a section or article tag.
+<h3>Changed placeholder text for name, background and goals<h3>
+<ul>
+    <li>Meets expectations:</li>
+        <ul>
+            <li>All the placeholder text has been changed for:</li>
+            <ul>
+                <li>Name</li>
+                <li>Background section</li>
+                <li>Goals section</li>
+            </ul>
+        </ul>
+    <li>Exceeds expectations:</li>
+        <ul>
+            <li>Additional text content has been added.</li>
+            <li>Changed tag names for the following div elements:</li>
+            <ul>
+                <li><div class="main-nav"> should be a nav tag.</li>
+                <li><div class="card"> should be a section or article tag.</li>
+            </ul>
+        </ul>
+</ul>
 
-Valid code
-    Meets expectations:
-        1. HTML and CSS code passes the validation.
-        2. HTML and CSS errors are accepted exceptions.
-    Exceeds expectations:
-        n/a
+<h3>Valid code</h3>
+<ul>
+    <li>Meets expectations:</li>
+        <ul>
+            <li>HTML and CSS code passes the validation.</li>
+            <li>HTML and CSS errors are accepted exceptions.</li>
+        </ul>
+    <li>Exceeds expectations:</li>
+        <ul>
+            <li>n/a</li>
+        </ul>
+</ul>
