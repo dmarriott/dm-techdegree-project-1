@@ -15,8 +15,12 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: #f7f5f0;
 }
+a.textlink {
+  color: blue;
+}
+
 a:hover {
   color: #6633ff;
 }
@@ -114,6 +118,17 @@ header .profile-image:hover {
   border-color: #99b1ff;
 }
 
+.card-icon {
+  width: 20%; 
+  float:left; 
+  margin:0px 20px 0px 0px;
+}
+
+.card-logo {
+  width: 60%; 
+  margin:0px 0px 0px 0px;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
@@ -130,6 +145,16 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+}
+
+ul.no-marker {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px 0px 0px 20px;
+}
+
+li.no-marker {
+  padding: 0px 0px 15px 0px;
 }
 
 footer {
@@ -183,10 +208,8 @@ a.social:hover {
 @media screen and (min-width: 720px) {
   
   .flex {
-      display: -ms-flexbox;      /* TWEENER - IE 10 */
       display: flex; 
       max-width: 1200px;
-      -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
   }
