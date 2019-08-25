@@ -51,7 +51,7 @@ You'll also practice using GitHub, an important tool used by millions of develop
     <li>Meets expectations:</li>
         <ul>
             <li>New profile image is in place, and the image file size is under 400 KB.</li>
-            <li>"profile-image" class is still attached to profile <img> tag.</li>
+            <li>"profile-image" class is still attached to profile &lt;img&gt; tag.</li>
             <li>New profile image's alt attribute text has been updated.</li>
             <li>New background image is in place, and the image file size is under 1 MB.</li>
         </ul>
@@ -84,8 +84,8 @@ You'll also practice using GitHub, an important tool used by millions of develop
             <li>Additional text content has been added.</li>
             <li>Changed tag names for the following div elements:</li>
             <ul>
-                <li><div class="main-nav"> should be a nav tag.</li>
-                <li><div class="card"> should be a section or article tag.</li>
+                <li>&lt;div class="main-nav"&gt; should be a nav tag.</li>
+                <li>&lt;div class="card"&gt; should be a section or article tag.</li>
             </ul>
         </ul>
 </ul>
