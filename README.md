@@ -12,15 +12,23 @@ You'll also practice using GitHub, an important tool used by millions of develop
 Grading the project
 
 Include the required files
-    Meets expectations:
-        Project includes the following:
-            1. index.html
-            2. experience.html
-            3. styles.css
-            4. a new profile image
-            5. a new background image
-    Exceeds expectations:
-        n/a
+<ul>
+    <li>Meets expectations:</li>
+        <ul>
+            <li>Project includes the following:</li>
+            <ol>
+                <li>index.html</li>
+                <li>experience.html</li>
+                <li>styles.css</li>
+                <li>a new profile image</li>
+                <li>a new background image</li>
+            </ol>
+        </ul>
+    <li>Exceeds expectations:</li>
+        <ul>
+            <li>n/a</li>
+        </ul>
+</ul>
 
 Links
     Meets expectations:
